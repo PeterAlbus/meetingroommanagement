@@ -1,0 +1,26 @@
+body
+{
+    background-image: url("../image/bkg.png");
+    padding-top: 50px;
+}
+
+.container
+{
+    min-height: 100%;
+    background-color: white;
+}
+
+#switchbutton
+{
+    background-color: #9acfea;
+}
+
+.navbar-default
+{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+
+.table tbody tr td{
+    vertical-align: middle !important;
+}
